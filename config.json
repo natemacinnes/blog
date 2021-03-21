@@ -1,0 +1,19 @@
+{
+  "base_url": "https://nate.dev",
+  "site_title": "nate.dev",
+  "site_description": "his",
+  "site_keywords": [
+    {
+      "keyword": "developer"
+    },
+    {
+      "keyword": "personal blog"
+    },
+    {
+      "keyword": "full stack"
+    }
+  ],
+  "posts_per_page": 5,
+  "twitter_account": "@natemacinnes",
+  "github_account": "natemacinnes"
+}
