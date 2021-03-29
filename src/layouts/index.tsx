@@ -30,6 +30,7 @@ export default function Index({
   tags,
   description,
 }: Props) {
+  debugger
   console.log('test')
   console.log(tags)
   const keywords = tags.map((it) => getTag(it).name);
